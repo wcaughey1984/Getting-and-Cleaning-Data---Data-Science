@@ -7,4 +7,6 @@ The data used in this project is from the [UCI Machine Learning Repository](http
 ## run_analysis.R
 This code downloads, merges, and exports a final data set.  This final data set contains the final means for selected fields by subject and activity.
 
-## 
+## Description of Variables
+Description of variables can be found in [this] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) download in the 'features_info' file.
+
